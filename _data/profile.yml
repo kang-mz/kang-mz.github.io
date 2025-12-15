@@ -21,28 +21,23 @@ orcid: 0000-0001-6943-3398
 short_bio_text_justify: false
 short_bio: |-
   <p>
-    I am currently a Postdoctoral Research Fellow at 
-    <a href="https://www.ntu.edu.sg/" target="_blank" rel="noopener noreferrer">Nanyang Technological University</a>, 
+    I am currently a Postdoctoral Research Fellow at Nanyang Technological University, 
     working with 
     <a href="https://personal.ntu.edu.sg/asxytang/" target="_blank" rel="noopener noreferrer">Prof. Xueyan Tang</a>. 
-    I received my Ph.D. degree from 
-    <a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener noreferrer">Sun Yat-sen University</a>, 
+    I received my Ph.D. degree at Sun Yat-sen University, 
     supervised by 
     <a href="https://chen-website.github.io/" target="_blank" rel="noopener noreferrer">Prof. Lin Chen</a>. 
-    I received my M.E. degree from 
-    <a href="https://www.csu.edu.cn/" target="_blank" rel="noopener noreferrer">Central South University</a>, 
+    I received my M.E. degree at Central South University, 
     supervised by 
     <a href="https://faculty.csu.edu.cn/chenzhigang/zh_CN/index.htm" target="_blank" rel="noopener noreferrer">Prof. Zhigang Chen</a>, 
-    and my B.E. degree from 
-    <a href="https://www.ncu.edu.cn/" target="_blank" rel="noopener noreferrer">Nanchang University</a>. 
+    and my B.E. degree at Nanchang University. 
     I also work closely with 
     <a href="https://sie.bit.edu.cn/szdw/jsml/ktwlxxjsyjsj/zgzc/d48c698baf81430daba62561812f65f1.htm" target="_blank" rel="noopener noreferrer">Prof. Jihong Yu</a>.
   </p>
   <!-- Delete the template cat paragraph below if you don't need it -->
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds,
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research interests span wireless backscatter sensing and distributed algorithm design, with a particular focus on radio-frequency identification (RFID), network caching, and route origin authorization (ROA). 
+    If you are interested in my work, please feel free to connect with me!
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -50,17 +45,20 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-  - name: Massachusetts Institute of Technology
+  - name: Sun Yat-sen University
     logo: /assets/images/badges/MIT_Social_circle.png
     position: >-
-      Department of Electrical Engineering and Computer Science <br/>
-      Ph.D. Student
-    date: Sep. 2024 - present
-  - name: Peking University
+      Ph.D. in Computer Science and Technology <br/>
+    date: 2020 - 2024
+  - name: Central South University
     logo: /assets/images/badges/PKU_red.png
-    position: B.S. in Computer Science
-    date: Sep. 2019 - Jul. 2021
-
+    position: M.Eng in Software Engineering
+    date: 2017 - 2020
+  - name: Central South University
+    logo: /assets/images/badges/PKU_red.png
+    position: B.E. in Software Engineering
+    date: 2013 - 2017
+    
 # experience:
 #   - name: Peking University
 #     logo: /assets/images/badges/PKU_red.png
