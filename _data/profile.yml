@@ -4,7 +4,7 @@ navbar_name: "Your Name"
 
 positions: 
   - name: Postdoctoral Research Fellow, Nanyang Technological University
-    logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional (replace with NTU logo if you want)
+    logo: /assets/images/badges/NTU.png  # Logo is optional (replace with NTU logo if you want)
 
 email: "kanghuai.liu@ntu.edu.sg"
 # cv_link: link-to-your-cv-file
@@ -45,16 +45,16 @@ portrait_caption: >-
 
 education:
   - name: Sun Yat-sen University
-    logo: /assets/images/badges/MIT_Social_circle.png
+    logo: /assets/images/badges/SYSU.png
     position: >-
       Ph.D. in Computer Science and Technology <br/>
     date: 2020 - 2024
   - name: Central South University
-    logo: /assets/images/badges/PKU_red.png
+    logo: /assets/images/badges/csu.gif
     position: M.E. in Software Engineering
     date: 2017 - 2020
   - name: Nanchang University
-    logo: /assets/images/badges/PKU_red.png
+    logo: /assets/images/badges/NCU.png
     position: B.E. in Software Engineering
     date: 2013 - 2017
     
@@ -73,7 +73,6 @@ awards:
     date: 2023
     
 service:
-  - name: Reviewer: IEEE/ACM Transactions on Networking, 
-  IEEE Transactions on Mobile Computing, 
-  IEEE Transactions on Computers, 
-  IEEE Transactions on Dependable and Secure Computing
+  - name: >-
+      Reviewer: IEEE/ACM Transactions on Networking; IEEE Transactions on Mobile Computing;
+      IEEE Transactions on Computers; IEEE Transactions on Dependable and Secure Computing
