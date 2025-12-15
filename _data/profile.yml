@@ -35,7 +35,7 @@ short_bio: |-
   </p>
   <!-- Delete the template cat paragraph below if you don't need it -->
   <p>
-    My research interests span wireless backscatter sensing and distributed algorithm design, with a particular focus on radio-frequency identification (RFID), network caching, and route origin authorization (ROA). 
+    My research interests span wireless backscatter sensing and distributed algorithm design, with a particular focus on radio frequency identification (RFID), network caching, and route origin authorization (ROA). 
     # If you are interested in my work, please feel free to connect with me!
   </p>
 
@@ -53,7 +53,7 @@ education:
     logo: /assets/images/badges/PKU_red.png
     position: M.E. in Software Engineering
     date: 2017 - 2020
-  - name: Central South University
+  - name: Nanchang University
     logo: /assets/images/badges/PKU_red.png
     position: B.E. in Software Engineering
     date: 2013 - 2017
@@ -71,3 +71,6 @@ awards:
     date: 2020
   - name: First-Class Tencent Scholarship (Ph.D. Graduate), SYSU 
     date: 2023
+    
+service:
+  - name: Reviewer: IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Computers, IEEE Transactions on Dependable and Secure Computing
