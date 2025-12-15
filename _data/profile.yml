@@ -65,9 +65,9 @@ education:
 #     date: Sep. 2019 - Jul. 2021
 
 awards:
-  - name: Award Name 2
-    date: 2024
-  - name: Award Name 1
-    date: 2021
-  - name: A quick brown fox jumps over the lazy dog and runs away award
-    date: 2021  # 原文这样
+  - name: National Scholarship, CSU
+    date: 2018
+  - name: Outstanding Master Graduate of Hunan Province, CSU
+    date: 2020
+  - name: First-Class Tencent Scholarship (Ph.D. Graduate), SYSU 
+    date: 2023
