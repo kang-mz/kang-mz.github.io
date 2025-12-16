@@ -83,7 +83,7 @@ div.lazy {
 }
 
 .badge-publication {
-    font-size: 80%;  /* 移除这行，让徽章继承父元素字体大小 */
+    font-size: 100%;  /* 移除这行，让徽章继承父元素字体大小 */
     vertical-align: baseline; /* 添加垂直对齐，与文本基线对齐 */
 }
 
