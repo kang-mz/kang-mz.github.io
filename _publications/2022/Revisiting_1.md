@@ -2,7 +2,7 @@
 title:          "Revisiting RFID Missing Tag Identification"
 date:           2022-05-01
 selected:       true
-pub:            "In 41st IEEE Conference on Computer Communications"
+pub:            "41st IEEE Conference on Computer Communications"
 # pub_pre:        "Submitted to "
 pub_post:       ' <span class="badge badge-pill badge-publication badge-success">INFOCOM 2022 (CCF-A)</span>'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success"></span>'
@@ -21,6 +21,7 @@ links:
   Paper: https://ieeexplore.ieee.org/document/9796971
   Bibtex: /Bibtex/2022/INFOCOM-2022.txt
 ---
+
 
 
 
