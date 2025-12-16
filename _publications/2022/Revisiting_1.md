@@ -1,6 +1,6 @@
 ---
 title:          "Revisiting RFID Missing Tag Identification"
-date:           2025-10-01
+date:           2022-05-01
 selected:       true
 pub:            "IEEE Conference on Computer Communications 2022 (INFOCOM)"
 # pub_pre:        "Submitted to "
@@ -21,3 +21,4 @@ links:
   Paper: https://ieeexplore.ieee.org/document/11072316
   Bibtex: /Bibtex/2022/INFOCOM-2022.txt
 ---
+
