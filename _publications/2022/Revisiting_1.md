@@ -4,7 +4,7 @@ date:           2022-05-01
 selected:       true
 pub:            "41st IEEE Conference on Computer Communications"
 # pub_pre:        "Submitted to "
-pub_post:         ' <span class="badge badge-pill badge-publication badge-success">INFOCOM 2022 (CCF-A)</span>'
+pub_post: ' <span class="badge badge-pill badge-publication badge-success small" style="font-size: inherit;">INFOCOM 2022 (CCF-A)</span>'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success"></span>'
 # pub_date:       "2024"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
@@ -21,6 +21,7 @@ links:
   Paper: https://ieeexplore.ieee.org/document/9796971
   Bibtex: /Bibtex/2022/INFOCOM-2022.txt
 ---
+
 
 
 
