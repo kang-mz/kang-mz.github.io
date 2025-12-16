@@ -85,6 +85,7 @@ div.lazy {
 .badge-publication {
     font-size: 0.85em !important; /* 调整这个值来改变大小 */
     vertical-align: baseline;
+    font-style: italic !important; /* 添加斜体 */
 }
 
 .email-text {
