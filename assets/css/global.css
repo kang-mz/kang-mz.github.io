@@ -83,7 +83,7 @@ div.lazy {
 }
 
 .badge-publication {
-    font-size: 0.95em !important; /* 调整这个值来改变大小 */
+    font-size: 0.75em !important; /* 调整这个值来改变大小 */
     vertical-align: baseline;
 }
 
