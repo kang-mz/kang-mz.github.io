@@ -2,18 +2,19 @@
 <div class="d-none d-md-block">
     <div class="row no-gutters {% unless include.hide_bottom_border %}border-bottom{% endunless %} border-gray">
 
-        {%- if item.cover -%}
-        <!-- Desktop: show cover image only when item.cover is provided -->
+        <!-- Desktop: always keep the left column for indentation; show image only when item.cover exists -->
         <div class="col-md-3 col-xl-2 mb-md-0 p-md-3">
+            {%- if item.cover -%}
             <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+            {%- else -%}
+            <!-- No cover: keep this column empty to preserve the same left indentation (no bubble) -->
+            {%- endif -%}
         </div>
-        {%- endif -%}
 
-        <!-- Desktop: if no cover, expand text area to full width -->
-        <div class="{% if item.cover %}col-md-9 col-xl-10{% else %}col-md-12 col-xl-12{% endif %} p-3 {% if item.cover %}pl-md-2{% else %}pl-md-0{% endif %}">
+        <div class="col-md-9 col-xl-10 p-3 pl-md-2">
             <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
             <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
-            <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }} <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span></p>
+            <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }} <span data-semantic_scholar_id="{{ item.semantic_scholar_id }}"></span></p>
             <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
             
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
@@ -25,6 +26,7 @@
                 {% endif %}
                 {% endfor %}
             </p>
+
         </div>
     </div>
 </div>
